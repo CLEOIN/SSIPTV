@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="2689" aspect-ratio="16:9", ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+#EXTINF:0 type="stream" channelId="2457" aspect-ratio="16:9", Amazon Sat
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="2124" aspect-ratio="16:9", Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:0 type="stream" channelId="2124" aspect-ratio="16:9", Antena 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:0 type="stream" channelId="3640" aspect-ratio="16:9", Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.canal4jujuy.com.ar/img/logo.jpg" aspect-ratio="16:9", Canal 4 Jujuy
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.cbn.com/images8/cbn-espanol-OG.jpg" aspect-ratio="16:9", CBN Español
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://s16.postimg.org/z4yd0upsl/cine_sky.png" aspect-ratio="16:9", Cine Sky
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2655" aspect-ratio="16:9", CJC
+http://flash1.crossdigital.com.br:1935/ponto85/ongrace/chunklist_w1845114081.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://1.bp.blogspot.com/-AjS4No__XN0/WPPu4Bjhv6I/AAAAAAAABn0/YQw-uvdNSQkpBHkzqo9pyc6ctaxRxy1RACLcB/s200/classique-tv.jpg" aspect-ratio="16:9", Classique TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://mitvstatic.com/channels/gt_enlace-juvenil_m.png" aspect-ratio="16:9", EJTV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://static1.squarespace.com/static/556da91de4b010ed6e0bddff/t/57ed9b9ab3db2bd1445b5b42/1442361594794/?format=300w" aspect-ratio="16:9", Esperanza TV
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Gospel Movies Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Gospel Music Television
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1330" aspect-ratio="16:9", HBO Brasil
+http://107.182.231.88:1935/liverepeater/ch37-1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="261" aspect-ratio="16:9", Juce TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+#EXTINF:0 type="stream" channelId="1692" aspect-ratio="16:9", La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:0 type="stream" channelId="1954" aspect-ratio="16:9", Las Estrellas
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:0 type="stream" channelId="2125" aspect-ratio="16:9", Nova
+http://a3live-lh.akamaihd.net:80/i/nova/geonova_1@379404/index_3_av-p.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://img.new.livestream.com/accounts/00000000014198da/eba9f726-8f86-4863-ad3b-0d6ee5b94ecd_170x170.jpg" aspect-ratio="16:9", TV Miramar
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/744342921516826624/z3DYuDwD.jpg" aspect-ratio="16:9", TV na Ilha
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8?wowzasessionid=958274280
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.tvriopreto.tv/images/logo_white.png" aspect-ratio="16:9", TV Rio Preto
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+#EXTINF:0 type="stream" channelId="2497" aspect-ratio="16:9", TVMás
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
