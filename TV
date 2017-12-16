@@ -43,5 +43,3 @@ http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8?wowzasessionid=958274280
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.tvriopreto.tv/images/logo_white.png" aspect-ratio="16:9", TV Rio Preto
 http://186.227.165.118:1935/insatv/livestream/live.m3u8
-#EXTINF:0 type="stream" channelId="2497" aspect-ratio="16:9", TVMás
-http://50.7.98.234:1935/rtv/videortv/playlist.m3u
